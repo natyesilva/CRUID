@@ -1,0 +1,17 @@
+D:\Estudo\CRUID\CRUID\bin\Debug\net6.0-windows\CRUID.exe
+D:\Estudo\CRUID\CRUID\bin\Debug\net6.0-windows\CRUID.deps.json
+D:\Estudo\CRUID\CRUID\bin\Debug\net6.0-windows\CRUID.runtimeconfig.json
+D:\Estudo\CRUID\CRUID\bin\Debug\net6.0-windows\CRUID.dll
+D:\Estudo\CRUID\CRUID\bin\Debug\net6.0-windows\CRUID.pdb
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.csproj.AssemblyReference.cache
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.Form1.resources
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.csproj.GenerateResource.cache
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.AssemblyInfoInputs.cache
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.AssemblyInfo.cs
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.csproj.CoreCompileInputs.cache
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.dll
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\refint\CRUID.dll
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.pdb
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\CRUID.genruntimeconfig.cache
+D:\Estudo\CRUID\CRUID\obj\Debug\net6.0-windows\ref\CRUID.dll
